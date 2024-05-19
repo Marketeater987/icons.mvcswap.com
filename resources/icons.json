@@ -122,6 +122,12 @@
             "logo": "w-pepe.png"
         },
         {
+            "genesis": "3fd70de2977d95dd032625050b859a3fbb77d773",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "bome",
+            "logo": "bome.jpg"
+        },
+        {
             "genesis": "a54dd16d255ac5462a59c9c33ef7d12b5917a63f",
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "WORDG",
@@ -240,8 +246,18 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "WOsfi",
             "logo": "w-Osfi.png"
+        },
         {
-            "genesis": "APEX",
-            "codehash": "APEX",
+            "genesis": "d03131a9491f4af10e0a36ac320201f43db1e22c",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "bonk",
+            "logo": "bonk.jpg"
+        },
+        {
+            "genesis": "e6c27d5600ac127a828ebda8b6c10a398d3953c7",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "APEX",
             "logo": "APEX.jpg"
+        }
+    ]
+}
